@@ -53,7 +53,7 @@
     .button-blue,
     .button-green,
     .button-yellow {
-        background-image: linear-gradient(to right, #27ae6082, #27ae60);
+        background-image: linear-gradient(to right, #004effad, #005aff);
         box-shadow: none;
         border: none;
     }
@@ -70,11 +70,11 @@
     }
 
     .page-header {
-        background: linear-gradient(to right, #27ae6082, #27ae60);
+        background: linear-gradient(to right, #0602edf5, #0aa4ff);
     }
 
     .button-orange {
-        background-image: linear-gradient(to right, #27ae6082, #27ae60);
+        background-image: linear-gradient(to right, #0960fff5, #3e98cd);
     }
 
     .buttonlc2 {
